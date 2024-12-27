@@ -1,0 +1,8 @@
+buildHtml
+baseUrl https://emailquiz.scroll.pub
+metaTags
+editButton /edit.html
+title Email Marketing Quiz - Find Your Strategy
+style.css
+body.html
+script.js
